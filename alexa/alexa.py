@@ -28,7 +28,7 @@ def take_command():
                 text = text.replace('alexa','')
                  
             else:
-                print("alexa hu mai ijjat se naam lekr bol")
+                print("my name is alexa pls take my name then only i will reply")
         except:
             print("sorry, could not recognise")
         return text
